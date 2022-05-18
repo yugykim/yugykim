@@ -17,7 +17,7 @@ Currently learning
 Looking for a summer internship opportunity. 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugykim&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugykim)](https://github.com/yugykim/github-readme-stats)
 
 ## Languages and Tools
 
