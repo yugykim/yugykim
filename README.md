@@ -14,7 +14,6 @@ Currently learning
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="20" height="20"/> </a>
 <br />
 <br />
-Looking for a summer internship opportunity. 
 
 ---
 ![yugy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugykim&show_icons=true&theme=cobalt)
