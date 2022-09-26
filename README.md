@@ -26,9 +26,9 @@ Currently learning
 ---
 ## 🔗 Connect with me
 
-[yugyportfolio.com](https://www.yugyportfolio.com/) |
-[linkedIn](https://www.linkedin.com/in/yugy-kim-20a16b225/) |
-[instagram](https://www.instagram.com/yugyeongkim2/)
+[Portfolio Website](https://yugykim.github.io/new-portfolio/) |
+[LinkedIn](https://www.linkedin.com/in/yugy-kim-20a16b225/) |
+[Instagram](https://www.instagram.com/yugyeongkim2/)
 
 
 
