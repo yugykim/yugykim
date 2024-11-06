@@ -1,18 +1,7 @@
 # Hi I'm Yugy <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50"> 
 
-<img src="https://komarev.com/ghpvc/?username=yugykim&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /></p>
-
-I'm Currently taking a Software Development 2 years Diploma course, learning to become a full-stack Developer, graduating in **2023**
-
-Currently working on [🌍 uber-eat-frontend](https://github.com/yugykim/uber-eats-frontend)
-
-Currently learning
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<br />
-<br />
-
 ---
-![yugy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugykim&show_icons=true&theme=cobalt)
+
 
 ## Languages and Tools
 
